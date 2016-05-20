@@ -1,7 +1,7 @@
 {
   "name": "jest-travis-bug",
   "version": "1.0.0",
-  "description": "",
+  "description": "Repo to reproduce a jest bug",
   "main": "index.js",
   "scripts": {
     "test": "jest"
