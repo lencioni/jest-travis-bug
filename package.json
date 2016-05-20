@@ -4,6 +4,7 @@
   "description": "Repo to reproduce a jest bug",
   "main": "index.js",
   "scripts": {
+    "jest": "jest",
     "test": "npm run --silent jest"
   },
   "repository": {
