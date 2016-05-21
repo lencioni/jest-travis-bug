@@ -23,7 +23,7 @@
   "jest": {
     "testPathIgnorePatterns": [
       "/node_modules/",
-      "/build/"
+      "/foo/"
     ]
   }
 }
