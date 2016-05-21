@@ -24,9 +24,9 @@
     "jest-cli": "^12.1.0"
   },
   "jest": {
-    "automock": false,
     "testPathIgnorePatterns": [
-      "/node_modules/"
+      "/node_modules/",
+      "/build/"
     ]
   }
 }
