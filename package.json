@@ -24,10 +24,16 @@
     "jest-cli": "^12.1.0"
   },
   "dependencies": {
+    "StringScanner": "0.0.3",
+    "commander": "^2.9.0",
+    "eslint": "^2.8.0",
     "lodash.escaperegexp": "^4.1.1",
     "lodash.flattendeep": "^4.1.0",
     "lodash.partition": "^4.2.0",
     "lodash.sortby": "^4.2.2",
-    "lodash.uniqby": "^4.2.1"
+    "lodash.uniqby": "^4.2.1",
+    "minimatch": "^3.0.0",
+    "semver": "^5.1.0",
+    "xregexp": "^3.1.1"
   }
 }
